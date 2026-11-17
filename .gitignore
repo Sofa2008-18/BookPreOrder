@@ -1,0 +1,12 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Секретные настройки
+src/main/resources/application.properties
+
+# Системные файлы macOS
+.DS_Store
