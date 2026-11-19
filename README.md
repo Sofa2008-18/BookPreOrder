@@ -46,10 +46,6 @@ BookPreOrder — это веб-приложение для интернет-ма
 3. Настроить подключение к базе данных в `application.properties`.
 4. Запустить приложение через IntelliJ IDEA или Maven.
 
-Приложение запускается по адресу:
-
-http://localhost:8080
-
 Документация API Swagger:
 
 http://localhost:8080/swagger-ui/index.html
