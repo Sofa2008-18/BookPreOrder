@@ -56,4 +56,4 @@ http://localhost:8080/swagger-ui/index.html
 
 ## Автор
 
-Sofa2008-18
+Щербакова Софья 

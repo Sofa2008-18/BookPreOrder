@@ -43,7 +43,6 @@ public class CategoryService {
                 .toList();
     }
 
-    // Получение категории по ID
     public CategoryResponse getCategoryById(Long id) {
 
         Category category = categoryRepository.findById(id)
@@ -70,7 +69,6 @@ public class CategoryService {
         return toResponse(updatedCategory);
     }
 
-    // Удаление категории
     public void deleteCategory(Long id) {
 
         Category category = categoryRepository.findById(id)
